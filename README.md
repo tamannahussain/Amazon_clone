@@ -1,1 +1,1 @@
-Amazon clone static website
+Amazon clone static website.
